@@ -1,0 +1,27 @@
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.manifest
+D:\deletable HDD backups\selected (cutted) candidates to resume 1400-1\WIPE BASIJ\WindowsFormsApplication1 GUI - Copy - Copy\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.application
